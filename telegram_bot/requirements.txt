@@ -1,5 +1,0 @@
-python-dotenv
-asyncpg~=0.22.0
-
-environs~=8.0.0
-aiogram~=2.11.2
